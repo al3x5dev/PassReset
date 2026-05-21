@@ -1,0 +1,1 @@
+from . import setup, home, reset, settings, footer
